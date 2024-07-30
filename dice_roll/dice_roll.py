@@ -13,4 +13,3 @@ while True:
     roll =  str(roll)
     # print out the result
     print("You rolled a " + roll)
-    
